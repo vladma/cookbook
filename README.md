@@ -1,8 +1,7 @@
 # Grupo
-- 123456 David Martinho
-- 123456 David Martinho
-- 123456 David Martinho
-- 123456 David Martinho
+Madi Djaura-a20097710
+Vladmir Manuel-a20076750
+Mário Bastos-a21006172
 
 ## Changelog
 #### Versão 1.0:
