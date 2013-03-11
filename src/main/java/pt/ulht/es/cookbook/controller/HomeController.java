@@ -21,4 +21,31 @@ public class HomeController {
 		return "home";
 	}
 
+
+public class CriarReceita {
+
+string nome;
+string titulo;
+string descrproblema;
+string descrsolucao;
+
+return CriarReceita;
+
+    }
+
+public class ListarReceita{
+return Listr«arReceita;
+
+    }
+
+public class ReceitaDetalhe{
+return ReceitaDetalhe;
+
+    }
+
 }
+
+
+
+
+
